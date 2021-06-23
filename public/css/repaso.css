@@ -1,0 +1,32 @@
+h1{
+color: red;
+}
+
+div{
+    background-color: #F5F5F5;
+    height: 300px;
+    width: 100%;
+    
+}
+
+div .space-bottom{
+    margin-bottom: 10px;
+}
+
+ #container{
+    margin-bottom :20px;
+}
+p{
+    color:#888;
+}
+.text-small{
+    font-size: 14px;
+}
+
+.text-medium{
+    font-size: 20px;
+}
+
+.text-large{
+    font-size: 25px;
+}
